@@ -20,3 +20,7 @@ A fun Space Shooter game built using Python and Pygame.
 
 # Install pygame:
 - pip install pygame
+```python
+pip install pygame
+```
+  
