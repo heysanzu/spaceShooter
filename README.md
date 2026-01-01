@@ -1,4 +1,4 @@
-# Space Shooter Game (Pygame)
+# Space Shooter
 A fun Space Shooter game built using Python and Pygame.
 
 # Features
@@ -17,10 +17,6 @@ A fun Space Shooter game built using Python and Pygame.
 # Requirements
 - Python 3.x
 - Pygame
-
-# Install pygame:
-- pip install pygame
 ```python
 pip install pygame
 ```
-  
