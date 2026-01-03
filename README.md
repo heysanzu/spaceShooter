@@ -1,7 +1,7 @@
-# Space Shooter
+## Space Shooter
 A fun Space Shooter game built using Python and Pygame.
 
-# Features
+**Features:**
 - Smooth player movement
 - Auto shooting
 - Increasing difficulty
@@ -9,14 +9,16 @@ A fun Space Shooter game built using Python and Pygame.
 - High score system
 - Restart option
 
-# Controls
+**Controls:**
 - A / D or Arrow Keys → Move
 - Hold SPACE → Shoot
 - SPACE (after game over) → Restart
 
-# Requirements
+**Requirements:**
 - Python 3.x
 - Pygame
-```python
+```bash
 pip install pygame
 ```
+---
+Credits: `Made by Sanzu`
