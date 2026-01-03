@@ -10,9 +10,9 @@ A fun Space Shooter game built using Python and Pygame.
 - Restart option
 
 **Controls:**
-- A / D or Arrow Keys → Move
-- Hold SPACE → Shoot
-- SPACE (after game over) → Restart
+- `A / D` or `Arrow Keys` → Move
+- Hold `SPACE` → Shoot
+- `SPACE` (after game over) → Restart
 
 **Requirements:**
 - Python 3.x
